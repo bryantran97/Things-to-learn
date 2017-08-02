@@ -1,4 +1,7 @@
 # Things-to-learn
+
+UPDATE: After I finish some of my self-study material and projects I'll be turning this repository into a ROADMAP to my GITHUB. So users can have an easier time browsing my page. Getting rid of this content because it's kind of pointless to point out.
+
 This repository will be a personal guide and roadmap to the things I've been wanting to learn and as well as things I need to learn to earn a job as a developer. Currently, my dream is to become a Full-Stack developer. Initially what started off as a curiousity turned into an obsession of mine. I thought I would never make websites, but in the end, all I want to do is make websites. Here is are some of my short-term goals in terms of projects and things I need to learn.
 
 ## Personal Projects I want to make - (links are to my github repositories)
@@ -33,27 +36,27 @@ This repository will be a personal guide and roadmap to the things I've been wan
 
 [✔] Javascript DOM Manipulation/Events : https://goo.gl/J37RDh
 
-[] - jQuery Basic/Advanced :
+[✔] - jQuery Basic/Advanced :
 
 [✔] - Back End Basic Information :
 
-[] - Command Lines:
+[✔] - Command Lines:
 
-[] - Node.js :
+[✔] - Node.js :
 
-[] - Server Side Frameworks
+[✔] - Server Side Frameworks
 
-[] - Intermediate Express
+[✔] - Intermediate Express
 
-[] - API's :
+[✔] - API's :
 
-[] - Databases : 
+[✔] - Databases : 
 
-[] - RESTful Routing : 
+[✔] - RESTful Routing : 
 
-[] - Data Associations :
+[✔] - Data Associations :
 
-[] - Authentication :
+[✔] - Authentication :
 
 [] - Deploying : 
 
