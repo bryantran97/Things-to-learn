@@ -6,6 +6,7 @@ I will be posting my current progress, things I'm working on top (learning/side 
 
 ## Things I've been learning/working on
 * Improving my JavaScript skills/knowledge
+* Learning React.js and Redux.js
 * Learning design tools and how to improve (Photoshop/Illustrator)
 * Learning CSS Pre-processors (SASS)
 * Implementing APIs within one web application (Yelp API or Overwatch API, depends on what I'm feeling)
@@ -13,7 +14,6 @@ I will be posting my current progress, things I'm working on top (learning/side 
 
 
 ## Planning to learn (short-term goals)
-* Learn and utilize a front-end framework (Specifically react.js / angular)
 * Using JavaScript canvas to create cool animations/features on websites
 * JavaScript implementation for unique and smooth UX
 * Learning about relational databases
