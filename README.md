@@ -5,6 +5,8 @@ I will be posting my current progress, things I'm working on top (learning/side 
 
 
 ## Things I've been learning/working on
+* Learning more front-end stuff
+* Learning JADE HTML Templating
 * Improving my JavaScript skills/knowledge
 * Learning React.js and Redux.js
 * Learning design tools and how to improve (Photoshop/Illustrator)
